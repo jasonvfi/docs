@@ -21,6 +21,12 @@
               "development"
             ]
           },
+		  {
+            "group": "VFI Docs",
+            "pages": [
+              "petro/commander"
+            ]
+          }
           {
             "group": "Essentials",
             "pages": [
