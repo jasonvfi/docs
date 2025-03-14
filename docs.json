@@ -24,9 +24,9 @@
 		  {
             "group": "VFI Docs",
             "pages": [
-              "petro/commander/README.md",
-              "petro/commander/pos-workstations-overview.md",
-              "petro/commander/car-wash.md"
+              "petro/commander/README",
+              "petro/commander/pos-workstations-overview",
+              "petro/commander/car-wash"
             ]
           },
           {
