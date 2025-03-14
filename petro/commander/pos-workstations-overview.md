@@ -1,3 +1,8 @@
+---
+title: "POS Workstations Overview
+description: "A brief description of the page content"
+---
+
 # POS Workstations Overview
 
 Verifone Point of Sale (POS) devices typically use the Verifone Commander as the server.
