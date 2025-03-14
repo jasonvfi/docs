@@ -1,5 +1,5 @@
 ---
-title: "POS Workstations Overview
+title: "POS Workstations Overview"
 description: "A brief description of the page content"
 ---
 
@@ -25,7 +25,7 @@ Verifone Ruby2 is equipped with a 15-inch LED-backlit touch-screen interface and
 
 <figure><img src="../../.gitbook/assets/image_34_6.png" alt=""><figcaption></figcaption></figure>
 
-The Verifone RubyCi is Verifone’s all in one POS and Verifone Commander solution. It combines a Verifone Ruby2 POS with the functionality of the Verifone Commander in one piece of hardware to provide fast, efficient, and complete store management. It enables users to have the ability to consolidate as well as upgrade their POS equipment with one piece of hardware.
+The Verifone RubyCi is Verifone's all in one POS and Verifone Commander solution. It combines a Verifone Ruby2 POS with the functionality of the Verifone Commander in one piece of hardware to provide fast, efficient, and complete store management. It enables users to have the ability to consolidate as well as upgrade their POS equipment with one piece of hardware.
 
 The Verifone RubyCi can interface with additional POS terminals such as the Verifone Ruby2 or the Verifone Topaz XL to expand sales operating capabilities.
 
@@ -33,7 +33,7 @@ The Verifone RubyCi can interface with additional POS terminals such as the Veri
 
 <figure><img src="../../.gitbook/assets/image_34_7.png" alt="" width="225"><figcaption></figcaption></figure>
 
-Verifone C18 is Verifone’s most powerful, integrated POS for convenience stores with unsurpassed functionality and versatility. Verifone C18’s user interface is made for cashiers serving customers who want a frictionless experience. The brilliant, high definition screen is easy on the eyes. At an impressive 18.5 inches, there is abundant real estate for all sales needs.
+Verifone C18 is Verifone's most powerful, integrated POS for convenience stores with unsurpassed functionality and versatility. Verifone C18's user interface is made for cashiers serving customers who want a frictionless experience. The brilliant, high definition screen is easy on the eyes. At an impressive 18.5 inches, there is abundant real estate for all sales needs.
 
 ## App Selector
 
