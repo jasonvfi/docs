@@ -24,7 +24,8 @@
 		  {
             "group": "VFI Docs",
             "pages": [
-              "petro/commander/README"
+              "petro/commander/README",
+              "petro/commander/pos-workstations-overview.md"
             ]
           },
           {
