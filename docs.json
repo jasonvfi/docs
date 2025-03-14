@@ -26,7 +26,8 @@
             "pages": [
               "petro/commander/README",
               "petro/commander/pos-workstations-overview",
-              "petro/commander/car-wash"
+              "petro/commander/car-wash",
+              "petro/commander/configuration-client-forms"
             ]
           },
           {
